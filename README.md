@@ -1,7 +1,7 @@
 # CPegawai
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/borneosync/cpegawai/main/logo.png" alt="CPegawai" width="150">
+  <img src="https://raw.githubusercontent.com/borneosync/cpegawai/main/ico.png" alt="CPegawai" width="150">
 </p>
 
 <p align="center">
